@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.6.2)
+  - MobileVLCKit (3.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MobileVLCKit (~> 3.5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MobileVLCKit
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  MobileVLCKit: f7a39ede91e47e227f8142343b311eb8c634f057
+
+PODFILE CHECKSUM: 17dc94412f6e2e1d1e11208c63e4a3c461a3e09d
+
+COCOAPODS: 1.11.3
