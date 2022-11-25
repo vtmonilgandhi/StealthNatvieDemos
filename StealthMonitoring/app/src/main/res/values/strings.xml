@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Stealth Monitoring</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="siteName">Site Name</string>
+    <string name="incident">Incident Type</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="incidents">Incidents</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+    <!--    <string name="userValidate">Please enter user name</string>
+        <string name="passValidate">Please enter password</string>-->
+</resources>
